@@ -1,4 +1,0 @@
-User-agent: *
-Sitemap: https://sathishkannan162.github.io/sitemap.xml
-Disallow: /ghost/
-Disallow: /p/
