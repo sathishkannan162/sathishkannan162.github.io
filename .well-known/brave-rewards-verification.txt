@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sathishkannan.me
+Token: 6f41e5acafc71cb0701d9c805dc3c3677e63c0a5719cd19ae5f18249e1be71a8
