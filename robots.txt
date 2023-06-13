@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://sensational-meerkat-2eb75c.netlify.app//sitemap.xml
+Sitemap: https://sensational-meerkat-2eb75c.netlify.app/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/
